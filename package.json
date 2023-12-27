@@ -1,0 +1,25 @@
+{
+  "name": "@digidockage/esm-usb-rs485-adapter",
+  "description": "An usb rs485 adapter library.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/digidockage/esm-usb-rs485-adapter",
+  "repository": "https://github.com/digidockage/esm-usb-rs485-adapter.git",
+  "author": {
+    "name": "Sgobbi Federico",
+    "email": "federico@sgobbi.it",
+    "url": "https://digidockage.com"
+  },
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0"
+  },
+  "files": [
+    "src/"
+  ],
+  "devDependencies": {
+    "semistandard": "^17.0.0"
+  }
+}
